@@ -1,4 +1,4 @@
-baostock==00.8.90
+baostock==0.8.90
 gym==0.21.0
 matplotlib==3.7.1
 numpy==1.24.3
